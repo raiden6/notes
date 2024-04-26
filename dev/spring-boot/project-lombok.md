@@ -10,7 +10,7 @@ Steps
   <scope>provided</scope>
 </dependency>
 ```
-1. Install Project Lombok in STS
+2. Install Project Lombok in STS
     1. STS -> Help -> Install new software 
     2. Work with: https://projectlombok.org/p2
 `
