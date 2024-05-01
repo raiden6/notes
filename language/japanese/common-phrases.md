@@ -4,7 +4,7 @@ Hello
 - Konnichiwa (こんにちは)
 
 Thank you 
-- Arigatou Gozaimasu (ありがとうございます) 
+- Arigatou (ありがとう) 
 
 Please 
 - kudasai (ください) 
