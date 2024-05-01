@@ -21,7 +21,13 @@ No
 Nice to meet you 
 - Hajimemashite (はじめまして)
 
-Goodbye 
+Bye-Bye (casual)
+- Bai Bai (バイバイ)
+See you (casual, frequently used)
+- Jaa Ne (じゃあね)
+See you later (casual, frequently used)
+- Mata Ne (またね) – See you later
+Goodbye (rarely used)
 - Sayōnara (さようなら)
 
 Beautiful 
