@@ -13,6 +13,6 @@
 - Build a docker image
   - ```docker build -t <image_tag>```
 - Run a docker image in a container
-  - ```docker run -t -dp:3000:3000 <image_tag>```
+  - ```docker run -t -dp:1337:80 <image_tag>```
 - Go inside the Docker container (for debugging)
   - ```docker exec -it 815f54f640b8 sh```
