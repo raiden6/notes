@@ -20,6 +20,11 @@
     - Provides built-in features for optimizing your application for production, including automatic code minification, image optimization, and prefetching of assets.
   - Developer experience
     - Offers a great developer experience with features like hot module replacement (HMR), fast refresh, and TypeScript support out of the box. It also integrates seamlessly with popular tools like ESLint and Prettier.
+      
 - Nx
   - https://nx.dev/
   - Nx is a build system with built-in tooling and advanced CI capabilities . It helps you maintain and scale monorepos, both locally and on CI.
+ 
+- TanStack Query
+  - https://tanstack.com/query/latest/docs/framework/react/overview
+  - TanStack Query (FKA React Query) is often described as the missing data-fetching library for web applications, but in more technical terms, it makes fetching, caching, synchronizing and updating server state in your web applications a breeze.
