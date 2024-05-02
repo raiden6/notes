@@ -35,3 +35,6 @@ graph TD;
     D-->B;
 ```
 
+
+REF:
+- https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know
