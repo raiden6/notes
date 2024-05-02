@@ -12,7 +12,7 @@ interface WrapperButtonProps extends ButtonProps {
   children: ReactNode;
 }
 
-const Button: React.FC<WrapperButtonProps> = ({children, ...rest}) => {
+const Button = ({children, ...rest} : WrapperButtonProps) => {
   return (
     <MuiButton {...rest}>
       {children}
