@@ -1,10 +1,11 @@
 # Event Loop
 
-JavaScript is single-threaded, but is able to execute functions asynchronously. This is made possible by the Event Loop.
+JavaScript is single-threaded, but is able to execute tasks asynchronously. This is made possible by the Event Loop.
 
 Components 
 - CallStack
-- Callback Queue
+- Task Queue (Callback Queue)
+- Microtask Queue
 - Event Loop
 
 Steps
@@ -13,6 +14,7 @@ Steps
 4. The callback function that that Web API gets added to the Callback Queue.
 5. That function then gets added to the CallStack by the Event Loop when the CallStack is empty.
 6. The callback function then gets executed.
+7. NOTE: Microtask Queue is for Promises (then, catch, finally), async await, etc.
 
 ```mermaid
 sequenceDiagram
