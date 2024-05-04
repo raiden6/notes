@@ -1,4 +1,4 @@
-# Ordering Food
+# Dining Out
 
 - **Irasshaimase** (いらっしゃいませ)  
   "Welcome" (said by restaurant staff when you enter)
