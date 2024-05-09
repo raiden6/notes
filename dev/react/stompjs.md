@@ -109,16 +109,15 @@ useEffect(() => {
     });
 
     stompClient.onConnect = (frame) => {
-      // Subscribe to the 'ars-ws-topic' topic
+      // Subscribe to the topic
       stompClient.subscribe('/topic/notifications', (message) => {
         const newMessage = JSON.parse(message.body);
-        // console.log('Message from ars-ws-topic:', newMessage);
         // setMessages(prevMessages => [...prevMessages, newMessage]);
         setLatestMessage(newMessage);
       })
 
       // stompClient.publish({
-      //   destination: '/app/register',
+      //   destination: '/app/hello',
       //   body: ''
       // })
     }
