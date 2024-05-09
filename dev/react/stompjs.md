@@ -88,3 +88,54 @@ public class MockBackendApplication {
 
 }
 ```
+
+### React
+
+1. Use the ```@stomp/stompjs``` library to communicate with the backend via STOMP over WebSocket
+2. On component mount, create a stompJS Client with ```'ws://localhost:8080/gs-guide-websocket'``` as the brokerURL. Then, subscribe to the ```'/topic/notifications'``` topic after the connection has been established. In the subscribe() method, the callback method gets called every time there's a new message in the message broker topic. You can also use ```.publish()``` to send a message to the server.
+```
+import { Client } from '@stomp/stompjs';
+
+useEffect(() => {
+    let stompClient = stompClientRef.current;
+    stompClient = new Client({
+      brokerURL: 'ws://localhost:8080/gs-guide-websocket',
+      // debug: (val: string) => {
+      //   console.log('STOMP:', val);
+      // },
+      reconnectDelay: 5000,
+      heartbeatIncoming: 4000,
+      heartbeatOutgoing: 4000,
+    });
+
+    stompClient.onConnect = (frame) => {
+      // Subscribe to the 'ars-ws-topic' topic
+      stompClient.subscribe('/topic/notifications', (message) => {
+        const newMessage = JSON.parse(message.body);
+        // console.log('Message from ars-ws-topic:', newMessage);
+        // setMessages(prevMessages => [...prevMessages, newMessage]);
+        setLatestMessage(newMessage);
+      })
+
+      // stompClient.publish({
+      //   destination: '/app/register',
+      //   body: ''
+      // })
+    }
+
+    stompClient.onWebSocketError = (error) => {
+      console.error('Error with websocket', error);
+    };
+    
+    stompClient.onStompError = (frame) => {
+      console.error('Broker reported error: ' + frame.headers['message']);
+      console.error('Additional details: ' + frame.body);
+    };
+
+    stompClient.activate();
+
+    return () => {
+      stompClient.deactivate(); // Disconnect
+    }
+  }, [])
+```
