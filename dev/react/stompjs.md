@@ -1,10 +1,13 @@
 # StompJS
 
-## What is STOMP
-- STOMP is a Simple Text Oriented Messaging Protocol (also supports binary data)
-- It is a subprotocol on top of WebSocket
+## Introduction
+- When we need to push data from the server to the frontend, we can use WebSocket, which provides fast bi-directional communication. With WebSocket, we only need to open up a single long-lived conection, and messages can be exchanged instantly. With polling, the client would have to open a connection and make requests at regular time interval. This is inefficient and not suitable for real-time applications chat, stock trading, or sports update. With polling, resources are wasted because connections can be opened and closed even when there is no new data from the backend.
 
-## Components
+## What is STOMP
+- STOMP is a Simple Text Oriented Messaging Protocol (also supports binary data). It offers an easier way to send and receives messages over WebSocket, since you don't have to deal with the lower level WebSocket implmentation.
+- StompJS is a JavaScript implementation of the STOMP protocol. 
+
+## Spring backend
 - The Spring backend configures a message broker and defines the endpoint mappings that clients connect to using STOMP over WebSockets.
   - It could be simple in-memory broker like the Spring built-in Simple Broker, or a full-fledged one like RabbitMQ.
   - In our Spring app, we use the built-in SimpleBroker.
@@ -12,7 +15,6 @@
 ## Queue vs. Topic
 - Use a queue if a message is user-specific, and you want the message to be consumed by only one user.
 - Use a Topic if you want to broadcast a message so that all users receive the same message.
-
 
 ## Code
 
