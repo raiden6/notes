@@ -1,7 +1,7 @@
 # StompJS
 
 ## Introduction
-- When we need to push data from the server to the frontend, we can use WebSocket, which provides fast bi-directional communication. With WebSocket, we only need to open up a single long-lived conection, and messages can be exchanged instantly. With polling, the client would have to open a connection and make requests at regular time interval. This is inefficient and not suitable for real-time applications chat, stock trading, or sports update. With polling, resources are wasted because connections can be opened and closed even when there is no new data from the backend.
+- When we need to push data from the server to the frontend, we can use WebSocket, which provides fast bi-directional communication. With WebSocket, we only need to open up a single long-lived conection, and messages can be quickly exchanged between server and client. With polling, the client would have to open a connection and make requests at regular time interval. This is inefficient and not suitable for real-time applications chat, stock trading, or sports update. With polling, resources are wasted because we'll need to open and close connections even when there is no new data from the backend.
 
 ## What is STOMP
 - STOMP is a Simple Text Oriented Messaging Protocol (also supports binary data). It offers an easier way to send and receives messages over WebSocket, since you don't have to deal with the lower level WebSocket implmentation.
