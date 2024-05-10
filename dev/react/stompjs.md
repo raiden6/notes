@@ -138,3 +138,8 @@ useEffect(() => {
     }
   }, [])
 ```
+
+- **brokerURL:** This is the URL to the STOMP broker. The brokerURL directly points to the WebSocket endpoint where the STOMP broker is accessible (e.g., ws://example.com/stomp).
+- **reconnectDelay:** This is the delay in milliseconds before attempting to reconnect after a connection failure. Setting it to 5000 means that the client will attempt to reconnect every 5 seconds.
+- **heartbeatIncoming:** This sets the maximum allowed time in milliseconds between receiving messages from the server. If the heartbeat frames are not received within this interval, the connection may be considered broken. 4000 milliseconds here means 4 seconds.
+- **heartbeatOutgoing:** This sets the interval in milliseconds at which the client will send heartbeat frames to the server to indicate that it is alive. This is also set to 4000 milliseconds or 4 seconds.
