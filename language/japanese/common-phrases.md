@@ -7,7 +7,8 @@ Thank you
 - Arigatou (ありがとう) 
 
 Please 
-- kudasai (ください) 
+- kudasai (ください)
+- onegaishimasu (お願いします)
 
 Excuse me/ I'm sorry 
 - Sumimasen (すみません) 
