@@ -7,7 +7,7 @@
 ## Components
 - The Spring backend configures a message broker and defines the endpoint mappings that clients connect to using STOMP over WebSockets.
   - It could be simple in-memory broker like the Spring built-in Simple Broker, or a full-fledged one like RabbitMQ.
-  - In our Spring app, we use the built-in Simple Broker.
+  - In our Spring app, we use the built-in SimpleBroker.
 
 ## Queue vs. Topic
 - Use a queue if a message is user-specific, and you want the message to be consumed by only one user.
@@ -18,7 +18,7 @@
 
 ### Spring
 
-1. Configure STOMP over WebSocket using the built-in Simple Broker. The brokerURL is ```/gs-guide-websocket```, and the destinationPrefix is ```/topic```. Make sure to enable CORS with ```.setAllowedOriginPatterns("*")```.
+1. Configure STOMP over WebSocket using the built-in SimpleBroker. The brokerURL is ```/gs-guide-websocket```, and the destinationPrefix is ```/topic```. Make sure to enable CORS with ```.setAllowedOriginPatterns("*")```.
 ```
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
@@ -92,7 +92,7 @@ public class MockBackendApplication {
 ### React
 
 1. Use the ```@stomp/stompjs``` library to communicate with the backend via STOMP over WebSocket
-2. On component mount, create a stompJS Client with ```'ws://localhost:8080/gs-guide-websocket'``` as the brokerURL. Then, subscribe to the ```'/topic/notifications'``` topic after the connection has been established. In the subscribe() method, the callback method gets called every time there's a new message pushed to the topic. You can also use ```.publish()``` to send a message to the server.
+2. On component mount, create a stompJS Client with ```'ws://localhost:8080/gs-guide-websocket'``` as the brokerURL. The websocket server will be listening for connections. Then, subscribe to the ```'/topic/notifications'``` topic after the connection has been established. In the ```subscribe()``` method, the callback method gets called every time there's a new message pushed to the topic. You can also use ```publish()``` to send a message to the websocket server.
 ```
 import { Client } from '@stomp/stompjs';
 
