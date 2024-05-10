@@ -11,7 +11,7 @@ REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
 - [Waiter] **Please call me when you're ready** - Okimari ni narimashitara o yobi kudasai (お決まりになりましたらお呼びください)
 - **Excuse me** (to grab waiter's attention) - Sumimasen (すみません)
 - **Ask for menu** - Menyuu o misete kudasai
-- **Is it okay if I order? or May I order?** - "chumon shite iidesuka?" or "chumon iidesuka?"
+- **Is it okay if I order / May I order?** - "chuumon shite iidesuka?" or "chuumon iidesuka?"
 - **Delicious** - Oishii (おいしい)
 
 
