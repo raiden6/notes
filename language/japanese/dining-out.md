@@ -27,3 +27,9 @@ REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
 - **Grilled** - Yaki (焼き)
 - **Deep-fried** - Age (揚げ)
 - **Raw** - Nama (生)
+
+## Wrapup
+- **How is the food?** - O-ryouri wa ikaga desu ka? (お料理はいかがですか？)
+- **It’s very delicious!** - Totemo oishii desu! (とても美味しいです！)
+- **It’s really delicious!** - Hontou ni oishii desu! (本当に美味しいです！)
+
