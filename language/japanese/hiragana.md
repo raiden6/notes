@@ -55,7 +55,7 @@ Adding dakuten (゛) or handakuten (゜) changes the sound of certain hiragana c
 - ふ (fu - dancing like a fool)
 - へ (he - Mt. Helen)
 - ほ (ho - mutated santa clause saying hohoho)
-- ま (ma - monster ma)
+- ま (ma - ma ghost)
 - み (mi - Me! Who just turned 21)
 - む (mu - moo says the cow)
 - め (me - eye in Japanese is me)
