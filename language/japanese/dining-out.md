@@ -10,6 +10,7 @@ REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
 - Here is the menu - Menyuu ni narimasu (メニューになります)
 - Please call me when you're ready - Okimari ni narimashitara o yobi kudasai (お決まりになりましたらお呼びください)
 - Excuse me (to grab waiter's attention) - Sumimasen (すみません)
+- Delicious - Oishii (おいしい)
 
 
 ## Ordering
