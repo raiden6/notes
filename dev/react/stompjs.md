@@ -6,11 +6,11 @@
 
 ## Components
 - The Spring backend configures a message broker and defines the endpoint mappings that clients connect to using STOMP over WebSockets.
-  - It could be simple in-memory broker or a full-fledged on like RabbitMQ.
-  - In out Spring app, we use the built-in Simple Broker.
+  - It could be simple in-memory broker like the Spring built-in Simple Broker, or a full-fledged one like RabbitMQ.
+  - In our Spring app, we use the built-in Simple Broker.
 
 ## Queue vs. Topic
-- Use a queue if you want to a message is user-specific, and you want the message to be consumed by only one user.
+- Use a queue if a message is user-specific, and you want the message to be consumed by only one user.
 - Use a Topic if you want to broadcast a message so that all users receive the same message.
 
 
@@ -44,7 +44,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 }
 ```
 
-2. Use SimpMessagingTemplate to send messages subscribed to a specific topic
+2. Use SimpMessagingTemplate to send messages to a specific topic
 ```
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Controller;
@@ -68,7 +68,7 @@ public class NotificationController {
 }
 ```
 
-3. Trigger the the sendNotification() method via a scheduled task
+3. Trigger the sendNotification() method via a scheduled task
 ```
 @SpringBootApplication
 @EnableScheduling
@@ -92,7 +92,7 @@ public class MockBackendApplication {
 ### React
 
 1. Use the ```@stomp/stompjs``` library to communicate with the backend via STOMP over WebSocket
-2. On component mount, create a stompJS Client with ```'ws://localhost:8080/gs-guide-websocket'``` as the brokerURL. Then, subscribe to the ```'/topic/notifications'``` topic after the connection has been established. In the subscribe() method, the callback method gets called every time there's a new message in the message broker topic. You can also use ```.publish()``` to send a message to the server.
+2. On component mount, create a stompJS Client with ```'ws://localhost:8080/gs-guide-websocket'``` as the brokerURL. Then, subscribe to the ```'/topic/notifications'``` topic after the connection has been established. In the subscribe() method, the callback method gets called every time there's a new message pushed to the topic. You can also use ```.publish()``` to send a message to the server.
 ```
 import { Client } from '@stomp/stompjs';
 
