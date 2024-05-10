@@ -1,77 +1,43 @@
 # Common Phrases
+- Hello/Good afternoon - Konnichiwa (こんにちは)
+- Good morning - Ohayou gozaimasu (おはようございます)
+- Good evening - Konbanwa (こんばんは)
+- Bye-Bye (casual) - Bai Bai (バイバイ)
+- See you (casual, frequently used) - Jaa Ne (じゃあね)
+- See you later (casual, frequently used) - Mata Ne (またね) – See you later
+- Goodbye (not used often) - Sayounara (さようなら)
+- Nice to meet you - Hajimemashite (はじめまして)
+- Thank you - Arigatou gozaimasu (ありがとうございます)
+- Excuse me/I'm sorry - Sumimasen (すみません)
+- Please - Onegaishimasu (お願いします), kudasai (ください)
+- Thank you for the meal (before eating) - Itadakimasu (いただきます)
+- Thank you for the meal (after eating) - Gochisousama deshita (ごちそうさまでした)
+- Yes - Hai (はい)
+- No - Iie (いいえ)
+- What is your name? - Onamae wa nan desu ka? (お名前は何ですか)
+- Nice to meet you (formal) - Douzo yoroshiku onegaishimasu (どうぞよろしくお願いします)
+- How are you? - Genki desu ka? (元気ですか)
+- I'm okay/I'm fine - Daijoubu desu (大丈夫です)
+- Help me, please - Tasukete kudasai (助けてください)
+- Where is it? - Doko desu ka? (どこですか)
+- How much is it? - Ikura desu ka? (いくらですか)
+- Where is the bathroom? - Toire wa doko desu ka? (トイレはどこですか)
+- Can you speak English? - Eigo wo hanasemasu ka? (英語を話せますか)
 
-Hello
-- Konnichiwa (こんにちは)
+<br/>
 
-Thank you 
-- Arigatou (ありがとう) 
-
-Please 
-- kudasai (ください)
-- onegaishimasu (お願いします)
-
-Excuse me/ I'm sorry 
-- Sumimasen (すみません) 
-
-Yes 
-- Hai (はい)
-
-No 
-- Īe (いいえ) 
-
-Nice to meet you 
-- Hajimemashite (はじめまして)
-
-Bye-Bye (casual)
-- Bai Bai (バイバイ)
-See you (casual, frequently used)
-- Jaa Ne (じゃあね)
-See you later (casual, frequently used)
-- Mata Ne (またね) – See you later
-Goodbye (rarely used)
-- Sayōnara (さようなら)
-
-Beautiful 
-- Utsukushii  (美しい ()
-
-Thank you for the food before the first bite
-- Itadakimasu (いただきます)
-
-Delicious 
-- Oishii (美味しい) 
-
-Wine 
-- Wain (ワイン) 
-
-Beer 
-- Bīru (ビール) 
-
-Japanese sake 
-- Nihonshu (日本酒) 
-
-Water please 
-- O-mizu o onegai shimasu (お水をお願いします) 
-
-Check, please 
-- Okaikei onegaishimasu (お会計 お願いします) 
-
-I would like ___, please 
-- __ o Kudasai (__をください) 
-
-How much is this? 
-- Ikura desu ka? (いくらですか？) 
-
-I'll take it 
-- Sore o moraimasu (それをもらいます) 
-
-Help! 
-- Tasukete! (助けて！) 
-
-Hospital 
-- Byōin (病院) 
-
-It hurts! 
-- Itai desu (痛いです) 
-
-I love Japan! 
-- Nihon daisuki (にほんだいすき) 
+- Beautiful - Utsukushii  (美しい ()
+- Thank you for the food before the first bite - Itadakimasu (いただきます)
+- Delicious - Oishii (美味しい)
+- Wine - Wain (ワイン) 
+- Beer - Bīru (ビール) 
+- Japanese sake - Nihonshu (日本酒) 
+- Water please - O-mizu o onegaishimasu (お水をお願いします) 
+- Check, please - Okaikei onegaishimasu (お会計 お願いします) 
+- I would like ___, please - __ o Kudasai (__をください) 
+- How much is this? - Ikura desu ka? (いくらですか？) 
+- I'll take it - Sore o moraimasu (それをもらいます) 
+- Help! - Tasukete! (助けて！) 
+- Hospital - Byōin (病院) 
+- It hurts! - Itai desu (痛いです) 
+- I love Japan! - Nihon daisuki (にほんだいすき) 
