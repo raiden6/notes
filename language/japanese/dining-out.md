@@ -2,13 +2,13 @@
 
 REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
 
-- Welcome (said by restaurant staff when you enter) - Irasshai mase (いらっしゃいませ)
-- How many people? - Nan mei sama desu ka? (何名様ですか？)
+- [Waiter] Welcome (said by restaurant staff when you enter) - Irasshai mase (いらっしゃいませ)
+- [Waiter]How many people? - Nan mei sama desu ka? (何名様ですか？)
 - 2 people - Futari desu (二人です)
 - 1 person - Hitori desu (一人です)
-- Please sit here - Kochira e douzo (こちらへどうぞ)
-- Here is the menu - Menyuu ni narimasu (メニューになります)
-- Please call me when you're ready - Okimari ni narimashitara o yobi kudasai (お決まりになりましたらお呼びください)
+- [Waiter]Please sit here - Kochira e douzo (こちらへどうぞ)
+- [Waiter]Here is the menu - Menyuu ni narimasu (メニューになります)
+- [Waiter]Please call me when you're ready - Okimari ni narimashitara o yobi kudasai (お決まりになりましたらお呼びください)
 - Excuse me (to grab waiter's attention) - Sumimasen (すみません)
 - Delicious - Oishii (おいしい)
 
