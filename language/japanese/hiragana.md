@@ -25,16 +25,49 @@ Adding dakuten (゛) or handakuten (゜) changes the sound of certain hiragana c
 
 
 ## Mnemonics
-|     | a  | i  | u  | e  | o  |
-|-----|----|----|----|----|----|
-| **  | あ (a - Capital A) | い (i - ee in eel) | う (u - oo in "ooh la la) | え (e - exotic bird) | お (o - o in origami) |
-| k   | か (ka - mosquito is ka in Japanese) | き (ki - key) | く (ku - cuckoo bird) | け (ke - ke in kelp) | こ (ko - co in cohabitating worms) |
-| s   | さ (sa - sa in salsa) | し (shi - shee in sheep - shepherd's crook to herd sheeps) | す (su - sue in "I'm gonna sue somebody for this!") | せ (se - se in sell) | そ (so - so in soda) |
-| t   | た (ta - taco) | ち (chi - say cheese) | つ (tsu - tsunami) | て (te - telescope) | と (to - toe with a nail on it) |
-| n   | な (na - nun praying in front of cross for nachos) | に (ni - needle pulling the thread) | ぬ (nu - noodle) | ね (ne - Nelly the cat) | の (no - pig nose) |
-| h   | は (ha - ha in haha) | ひ (hi - he has a big nose) | ふ (fu - dancing like a fool) | へ (he - Mt. Helen) | ほ (ho mutated santa clause saying hohoho) |
-| m   | ま (ma - monster ma) | み (mi - Me! Who just just turned 21) | む (mu - moo says the cow) | め (me - eye in Japanese is me) | も (mo - more worms to the hook) |
-| y   | や (ya - face of a yak) | -    | ゆ (yu - unique looking fish) | -    | よ (yo - Y & O) |
-| r   | ら (ra - rabit) | り (ri - reed) | る (ru - route) | れ (re - retch - guy kneeling down retching his dinner) | ろ (ro - road) |
-| w   | わ (wa - wasp) | -    | -    | -    | を (wo - whoa!) |
-| n   | ん (n)  | -    | -    | -    | -    |
+- あ (a - Capital A)
+- い (i - ee in eel)
+- う (u - oo in "ooh la la")
+- え (e - exotic bird)
+- お (o - o in origami)
+- か (ka - mosquito is ka in Japanese)
+- き (ki - key)
+- く (ku - cuckoo bird)
+- け (ke - ke in kelp)
+- こ (ko - co in cohabitating worms)
+- さ (sa - sa in salsa)
+- し (shi - shee in sheep - shepherd's crook to herd sheeps)
+- す (su - sue in "I'm gonna sue somebody for this!")
+- せ (se - se in sell)
+- そ (so - so in soda)
+- た (ta - taco)
+- ち (chi - say cheese)
+- つ (tsu - tsunami)
+- て (te - telescope)
+- と (to - toe with a nail on it)
+- な (na - nun praying in front of cross for nachos)
+- に (ni - needle pulling the thread)
+- ぬ (nu - noodle)
+- ね (ne - Nelly the cat)
+- の (no - pig nose)
+- は (ha - ha in haha)
+- ひ (hi - he has a big nose)
+- ふ (fu - dancing like a fool)
+- へ (he - Mt. Helen)
+- ほ (ho - mutated santa clause saying hohoho)
+- ま (ma - monster ma)
+- み (mi - Me! Who just turned 21)
+- む (mu - moo says the cow)
+- め (me - eye in Japanese is me)
+- も (mo - more worms to the hook)
+- や (ya - face of a yak)
+- ゆ (yu - unique looking fish)
+- よ (yo - Y & O)
+- ら (ra - rabbit)
+- り (ri - reed)
+- る (ru - route)
+- れ (re - retch - guy kneeling down retching his dinner)
+- ろ (ro - road)
+- わ (wa - wasp)
+- を (wo - whoa!)
+- ん (n)
