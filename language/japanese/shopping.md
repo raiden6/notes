@@ -15,3 +15,6 @@
 - Cheap - Yasui (安い)
 - Price - Kakaku (価格)
 - Sale - Seeru (セール)
+
+## Money
+- 1000 yen - sen en (sen means thousand, en means "yen")
