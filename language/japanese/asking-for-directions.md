@@ -16,6 +16,7 @@
 ## Phrases for Asking Directions
 - Excuse me. Where is the toilet? - Sumimasen. Toire wa doko desu ka?
 - Where is the train station? - Eki wa doko desu ka? (駅はどこですか)
+- Where is Shinjuku Station? - Shinjuku eki wa doko desuka?
 - How can I get to the airport? - Kuukou ni dou yatte ikimasu ka? (空港にどうやって行きますか)
 - Is there a bus stop nearby? - Chikaku ni basutei wa arimasu ka? (近くにバス停はありますか)
 - Which way to the subway? - Chikatetsu wa dochira desu ka? (地下鉄はどちらですか)
