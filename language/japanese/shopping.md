@@ -17,5 +17,13 @@
 - Price - Kakaku (価格)
 - Sale - Seeru (セール)
 
+## Color
+- Yellow, please - Kiiro o onegai shimasu
+- Red - Aka
+- Blue - Ao
+- Yellow - Kiiro
+- Black - Kuro
+- White - Shiro
+
 ## Money
 - 1000 yen - sen en (sen means thousand, en means "yen")
