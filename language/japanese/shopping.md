@@ -1,5 +1,6 @@
 # Shopping
-- Excuse me. What is this? - Sumimasen kore wa nan desuka
+- Excuse me - Sumimasen
+- What is this? - Kore wa nan desuka?
 - How much is this? - Kore wa ikura desu ka? (これはいくらですか？)
 - Can I pay by credit card? - Kurejitto kaado de haraimasu ka? (クレジットカードで払いますか？)
 - Do you have this in a different color? - Kore wa hoka no iro ga arimasu ka? (これは他の色がありますか？)
