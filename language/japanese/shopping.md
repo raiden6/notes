@@ -1,7 +1,10 @@
 # Shopping
 - Excuse me - Sumimasen
 - What is this? - Kore wa nan desuka?
-- How much is this? - Kore wa ikura desu ka? (これはいくらですか？)
+- How much is this? - Kore wa ikura desuka? (これはいくらですか？)
+- Can I have this? - Kore o kudasai? (kore: this, kudasai: give me / can I have)
+- Can I have one of this? - Kore o hitotsu kudasai
+  - 1: hitotsu, 2: futatsu, 3: mittsu
 - Can I pay by credit card? - Kurejitto kaado de haraimasu ka? (クレジットカードで払いますか？)
 - Do you have this in a different color? - Kore wa hoka no iro ga arimasu ka? (これは他の色がありますか？)
 - I’m just looking. - Tada mite iru dake desu. (ただ見ているだけです。)
