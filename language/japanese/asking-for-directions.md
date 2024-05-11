@@ -1,6 +1,7 @@
 # Asking for Directions
 
 ## Vocabulary for Places
+- Toilet - Toire
 - Train station - Eki (えき)
 - Bus stop - Basutei (バス停)
 - Airport - Kuukou (空港)
@@ -13,6 +14,7 @@
 - Library - Toshokan (図書館)
 
 ## Phrases for Asking Directions
+- Excuse me. Where is the toilet? - Sumimasen. Toire wa doko desu ka?
 - Where is the train station? - Eki wa doko desu ka? (駅はどこですか)
 - How can I get to the airport? - Kuukou ni dou yatte ikimasu ka? (空港にどうやって行きますか)
 - Is there a bus stop nearby? - Chikaku ni basutei wa arimasu ka? (近くにバス停はありますか)
