@@ -1,5 +1,9 @@
 # Shopping
 - Excuse me - Sumimasen
+- Do you have __? - __ wa arimasuka?
+  - Do you have tea? - Ocha wa arimasuka?
+- We don't have / No we don't - Arimasen
+- We have / Yes we do - Arimasu
 - What is this? - Kore wa nan desuka?
 - How much is this? - Kore wa ikura desuka? (これはいくらですか？)
 - Can I have this? - Kore o kudasai? (kore: this, kudasai: give me / can I have)
