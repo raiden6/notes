@@ -2,10 +2,10 @@
 - Hello/Good afternoon - Konnichiwa (こんにちは)
 - Good morning - Ohayou gozaimasu (おはようございます)
 - Good evening - Konbanwa (こんばんは)
-- Bye-Bye (casual) - Bai Bai (バイバイ)
-- See you (casual, frequently used) - Jaa Ne (じゃあね)
-- See you later (casual, frequently used) - Mata Ne (またね) – See you later
-- Goodbye (not used often) - Sayounara (さようなら)
+- Goodbye (formal, neutral, strangers) - Sayounara (さようなら)
+- Bye-Bye (neutral, strangers) - Bai Bai (バイバイ)
+- See you (casual, friends) - Jaa Ne (じゃあね)
+- See you later (casual, friends) - Mata Ne (またね) – See you later
 - Nice to meet you - Hajimemashite (はじめまして)
 - Thank you - Arigatou gozaimasu (ありがとうございます)
 - Excuse me/I'm sorry - Sumimasen (すみません)
