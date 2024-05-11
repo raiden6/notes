@@ -9,6 +9,8 @@
 - Nice to meet you - Hajimemashite (はじめまして)
 - Thank you - Arigatou gozaimasu (ありがとうございます)
 - Excuse me/I'm sorry - Sumimasen (すみません)
+- I'm sorry (to apologize) - Gomennasai
+- No problem - Daijoubu des
 - Please - Onegaishimasu (お願いします), kudasai (ください)
 - Thank you for the meal (before eating) - Itadakimasu (いただきます)
 - Thank you for the meal (after eating) - Gochisousama deshita (ごちそうさまでした)
