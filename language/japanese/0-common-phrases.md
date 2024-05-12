@@ -9,6 +9,7 @@
 - Nice to meet you - Hajimemashite (はじめまして)
 - Thank you - Arigatou gozaimasu (ありがとうございます)
 - Excuse me/I'm sorry - Sumimasen (すみません)
+  - Also when you bump into someone and want to say sorry
 - I'm sorry (to apologize) - Gomennasai
 - No problem - Daijoubu des
 - Please - Onegaishimasu (お願いします), kudasai (ください)
