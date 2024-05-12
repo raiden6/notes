@@ -2,6 +2,7 @@
 - Excuse me - Sumimasen
 - Do you have __? - __ wa arimasuka?
   - Do you have tea? - Ocha wa arimasuka?
+  - Do you havr coffee? - Koohii wa arimasuka?
 - We don't have / No we don't - Arimasen
 - We have / Yes we do - Arimasu
 - What is this? - Kore wa nan desuka?
