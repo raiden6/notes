@@ -11,8 +11,7 @@
   - 1: hitotsu, 2: futatsu, 3: mittsu
 - Can I pay by credit card? - Kurejitto kaado de haraimasu ka? (クレジットカードで払いますか？)
 - Do you have this in a different color? - Kore wa hoka no iro ga arimasu ka? (これは他の色がありますか？)
-- I’m just looking. - Tada mite iru dake desu. (ただ見ているだけです。)
-- Could you give me a discount? - Waribiki wa dekimasu ka? (割引はできますか？)
+- I’m just looking. - Tada mite iru dake desu. (ただ見ているだけ
 - I would like to return this. - Kore o henpin shitai desu. (これを返品したいです。)
 - Is this on sale? - Kore wa seeru chuu desu ka? (これはセール中ですか？)
 - Receipt, please. - Ryoushuusho o kudasai. (領収書をください。)
@@ -23,7 +22,7 @@
 - Cheap - Yasui (安い)
 - Price - Kakaku (価格)
 - Sale - Seeru (セール)
-
+<br/>
 - Eat here - Tennaide
 - Takeaway - Omochi kaeride
 
