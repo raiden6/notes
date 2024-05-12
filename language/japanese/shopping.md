@@ -24,6 +24,9 @@
 - Price - Kakaku (価格)
 - Sale - Seeru (セール)
 
+- Eat here - Tennaide
+- Takeaway - Omochi kaeride
+
 ## Color
 - Yellow, please - Kiiro o onegai shimasu
 - Red - Aka
