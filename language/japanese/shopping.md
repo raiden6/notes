@@ -10,6 +10,7 @@
 - Can I have one of this? - Kore o hitotsu kudasai
   - 1: hitotsu, 2: futatsu, 3: mittsu
 - Can I pay by credit card? - Kurejitto kaado de haraimasu ka? (クレジットカードで払いますか？)
+- Can I pay by Suica? - Suica de haraimasu ka?
 - Do you have this in a different color? - Kore wa hoka no iro ga arimasu ka? (これは他の色がありますか？)
 - I’m just looking. - Tada mite iru dake desu. (ただ見ているだけ
 - I would like to return this. - Kore o henpin shitai desu. (これを返品したいです。)
