@@ -22,7 +22,9 @@
 - Cheap - Yasui (安い)
 - Price - Kakaku (価格)
 - Sale - Seeru (セール)
+
 <br/>
+
 - Eat here - Tennaide
 - Takeaway - Omochi kaeride
 
