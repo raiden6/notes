@@ -21,6 +21,7 @@ REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
   - 1: hitotsu (一つ), 2: futatsu (二つ), 3: mitsu (三つ), 4: yotsu (四つ), 5: itsutsu (五つ), 6: mutsu (六つ), 7: nanatsu (七つ), 8: yatsu (八つ), 9: kokonotsu (九つ), 10: tō (十)
 - **This please** - Kore o kudasai (for pointing at an item)
   - **This and this and this, please** - Kore to kore to kore o kudasai
+- 2 of this, please - Kore o futatsu kudasai
 - **Menu** - Menyuu (メニュー)
 - **Order** - Chuumon (注文)
 - **Water, please** - Omizu o kudasai (お水をください)
