@@ -25,7 +25,7 @@
 - Where is it? - Doko desu ka? (どこですか)
 - How much is it? - Ikura desu ka? (いくらですか)
 - Where is the bathroom? - Toire wa doko desu ka? (トイレはどこですか)
-- Can you speak English? - Eigo wo hanasemasu ka? (英語を話せますか)
+- Amazing! - Sugoi!
 
 <br/>
 
