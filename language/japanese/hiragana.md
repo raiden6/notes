@@ -52,7 +52,7 @@ Adding dakuten (゛) or handakuten (゜) changes the sound of certain hiragana c
 - の (no - pig nose)
 - は (ha - ha in haha)
 - ひ (hi - he has a big nose)
-- ふ (fu - dancing like a fool)
+- ふ (fu - Mt. **Fu**ji)
 - へ (he - Mt. Helen)
 - ほ (ho - mutated santa clause saying hohoho)
 - ま (ma - ma ghost)
