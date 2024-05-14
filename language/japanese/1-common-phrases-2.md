@@ -14,4 +14,8 @@
   - **Orange Juice** - Orenji juusu
 - **Can I get this?** - Kore o kudasai
 - **Can I get two of this?** - Kore o futatsu kudasai?
+  **Can I get a napkin?** - Napukin o kudasai?
+- **Can I get the check?** - Okaikei onegaishimasu?
+- **How was fhe food?** - Shokuji wa ikaga deshita ka?
+- **Delicious!** - Oishii
 - 
