@@ -92,7 +92,7 @@
 - **ワ** (wa - what? question mark)
 - **ヲ** (wo - **wo**oofing dog)
 
-- **ン** (n)
+- **ン** (n - one-eye ma**n**)
 
 ## Combinations with Small Characters
 - **キャ** (kya)
