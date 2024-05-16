@@ -37,23 +37,23 @@
 
 
 ## Basic Katakana
-- **ア** (a)
-- **イ** (i)
-- **ウ** (u)
-- **エ** (e)
-- **オ** (o)
+- **ア** (a - A)
+- **イ** (i - eagle)
+- **ウ** (u - u)
+- **エ** (e - elevator door)
+- **オ** (o - opera singer)
 
-- **カ** (ka)
-- **キ** (ki)
-- **ク** (ku)
-- **ケ** (ke)
-- **コ** (ko)
+- **カ** (ka - ka)
+- **キ** (ki - key)
+- **ク** (ku - cook)
+- **ケ** (ke - letter k)
+- **コ** (ko - co in corner)
 
-- **サ** (sa)
-- **シ** (shi)
-- **ス** (su)
-- **セ** (se)
-- **ソ** (so)
+- **サ** (sa - sardine & salmon on skewer)
+- **シ** (shi - she has a weird face)
+- **ス** (su - superman)
+- **セ** (se - se hiragana)
+- **ソ** (so - see & needle pointing straight down)
 
 - **タ** (ta)
 - **チ** (chi)
