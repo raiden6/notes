@@ -61,20 +61,20 @@
 - **テ** (te - telephone pole)
 - **ト** (to - totem pole)
 
-- **ナ** (na - narwhal
+- **ナ** (na - narwhal)
 - **ニ** (ni - needles)
 - **ヌ** (nu - chopticks pulling on **noo**dles)
-- **ネ** (ne - horse saying **neigh**
-- **ノ** (no - long **no**se
+- **ネ** (ne - horse saying **neigh**)
+- **ノ** (no - long **no**se)
 
 - **ハ** (ha - hat)
 - **ヒ** (hi - heehee)
 - **フ** (fu - **f**lag **hoo**ray)
-- **ヘ** (he - Mt. **He**len
+- **ヘ** (he - Mt. **He**len)
 - **ホ** (ho **ho**ly cross)
 
 - **マ** (ma - **ma**th angles)
-- **ミ** (mi - **mi**ssiles
+- **ミ** (mi - **mi**ssiles)
 - **ム** (mu - moo cow)
 - **メ** (me - me (eye) with x)
 - **モ** (mo - mo)
