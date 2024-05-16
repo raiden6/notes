@@ -84,13 +84,13 @@
 - **ヨ** (yo - yoga pose)
 
 - **ラ** (ra - raptor wearing sunglasses like a rapper)
-- **リ** (ri)
-- **ル** (ru)
-- **レ** (re)
-- **ロ** (ro)
+- **リ** (ri - reeds)
+- **ル** (ru - routes)
+- **レ** (re - red hair girl)
+- **ロ** (ro - road)
 
-- **ワ** (wa)
-- **ヲ** (wo)
+- **ワ** (wa - what? question mark)
+- **ヲ** (wo - **wo**oofing dog)
 
 - **ン** (n)
 
