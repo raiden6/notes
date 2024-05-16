@@ -53,37 +53,37 @@
 - **シ** (shi - she has a weird face)
 - **ス** (su - superman)
 - **セ** (se - se hiragana)
-- **ソ** (so - see & needle pointing straight down)
+- **ソ** (so - sew & needle pointing straight down)
 
-- **タ** (ta)
-- **チ** (chi)
-- **ツ** (tsu)
-- **テ** (te)
-- **ト** (to)
+- **タ** (ta - taco kite)
+- **チ** (chi - cheerleader)
+- **ツ** (tsu - teo needles pointing down)
+- **テ** (te - telephone pole)
+- **ト** (to - totem pole)
 
-- **ナ** (na)
-- **ニ** (ni)
-- **ヌ** (nu)
-- **ネ** (ne)
-- **ノ** (no)
+- **ナ** (na - narwhal
+- **ニ** (ni - needles)
+- **ヌ** (nu - chopticks pulling on **noo**dles)
+- **ネ** (ne - horse saying **neigh**
+- **ノ** (no - long **no**se
 
-- **ハ** (ha)
-- **ヒ** (hi)
-- **フ** (fu)
-- **ヘ** (he)
-- **ホ** (ho)
+- **ハ** (ha - hat)
+- **ヒ** (hi - heehee)
+- **フ** (fu - **f**lag **hoo**ray)
+- **ヘ** (he - Mt. **He**len
+- **ホ** (ho **ho**ly cross)
 
-- **マ** (ma)
-- **ミ** (mi)
-- **ム** (mu)
-- **メ** (me)
-- **モ** (mo)
+- **マ** (ma - **ma**th angles)
+- **ミ** (mi - **mi**ssiles
+- **ム** (mu - moo cow)
+- **メ** (me - me (eye) with x)
+- **モ** (mo - mo)
 
-- **ヤ** (ya)
-- **ユ** (yu)
-- **ヨ** (yo)
+- **ヤ** (ya - yak)
+- **ユ** (yu - you have a hook for hand)
+- **ヨ** (yo - yoga pose)
 
-- **ラ** (ra)
+- **ラ** (ra - raptor wearing sunglasses like a rapper)
 - **リ** (ri)
 - **ル** (ru)
 - **レ** (re)
