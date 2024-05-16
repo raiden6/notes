@@ -57,7 +57,7 @@
 
 - **タ** (ta - taco kite)
 - **チ** (chi - cheerleader)
-- **ツ** (tsu - teo needles pointing down)
+- **ツ** (tsu - two needles pointing down)
 - **テ** (te - telephone pole)
 - **ト** (to - totem pole)
 
