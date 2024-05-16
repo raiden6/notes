@@ -1,4 +1,5 @@
 # Shopping
+- Welcome - Irashaimase
 - Excuse me - Sumimasen
 - Do you have __? - __ wa arimasuka?
   - Do you have tea? - Ocha wa arimasuka?
