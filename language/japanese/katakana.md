@@ -71,7 +71,7 @@
 - **ヒ** (hi - heehee)
 - **フ** (fu - **f**lag **hoo**ray)
 - **ヘ** (he - Mt. **He**len)
-- **ホ** (ho **ho**ly cross)
+- **ホ** (ho - **ho**ly cross)
 
 - **マ** (ma - **ma**th angles)
 - **ミ** (mi - **mi**ssiles)
