@@ -4,3 +4,4 @@ REFs
 - https://www.lingual-ninja.com/folktales
 - Wiki: 1000 Japanese basic words
   - https://en.m.wiktionary.org/wiki/Appendix:1000_Japanese_basic_words
+- https://guidetojapanese.org/learn/category/grammar-guide/basic-grammar/
