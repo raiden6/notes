@@ -16,8 +16,10 @@
 - Please - Onegaishimasu (お願いします), kudasai (ください)
 - Thank you for the meal (before eating) - Itadakimasu (いただきます)
 - Thank you for the meal (after eating) - Gochisousama deshita (ごちそうさまでした)
-- Yes - Hai (はい)
-- No - Iie (いいえ)
+- Yes, please - Hai, onegaishimasu (はい)
+- Yes, that's right - Hai, soudesu
+- Yes, I do - Hai, arimasu
+- No, I don't - Ie, naidesu (いえ)
 - What is your name? - Onamae wa nan desu ka? (お名前は何ですか)
 - Nice to meet you (formal) - Douzo yoroshiku onegaishimasu (どうぞよろしくお願いします)
 - How are you? - Genki desu ka? (元気ですか)
