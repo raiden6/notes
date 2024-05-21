@@ -19,7 +19,17 @@
 - **孫** (まご) - grandchild
 
 ## Konbini (Convenient Store)
-- Fukuru - bag
-- 
+- fukuru - bag
+- pointo kado - Point card
+- botan - button
+- oshite - to press
+- bentou - bento box
+  - bentou - polite form of the noun
+- atatameru - to warm, to heat up
+  - atatememasu - polite preent/future
+- sopun - spoon
+- foku - fork
+- ohashi - chopstick
+
 
 ## School
