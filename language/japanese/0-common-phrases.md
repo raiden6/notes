@@ -17,6 +17,7 @@
 - Thank you for the meal (before eating) - Itadakimasu (いただきます)
 - Thank you for the meal (after eating) - Gochisousama deshita (ごちそうさまでした)
 - Yes, please - Hai, onegaishimasu (はい)
+- No, it's okay - "ie, daijoubu desu"
 - Yes, that's right - Hai, soudesu
 - Yes, I do - Hai, arimasu
 - No, I don't - Ie, naidesu (いえ)
