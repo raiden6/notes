@@ -1,6 +1,6 @@
 # Vocab - Noun
 
-# People
+## People
 - **人** (ひと) - person
 - **子供** (こども) - child
 - **大人** (おとな) - adult
@@ -18,5 +18,8 @@
 - **祖母** (そぼ) - grandmother
 - **孫** (まご) - grandchild
 
+## Konbini (Convenient Store)
+- Fukuru - bag
+- 
 
-# School
+## School
