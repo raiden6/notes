@@ -58,3 +58,13 @@
 #### Plain Past Form (た形)
 - Informal past tense form used in casual conversations and writing. Often ends in "た" or "だ".
 - Example: 食べた (tabeta) - ate
+
+## Japanese Verb Conjugation Rules
+
+| Verb Type | Dictionary Form | Masu Form         | Te Form         | Plain Past Form | Negative Form    | Explanation                                           |
+|-----------|------------------|-------------------|-----------------|-----------------|------------------|-------------------------------------------------------|
+| Godan     | 飲む (nomu)       | 飲みます (nomimasu)| 飲んで (nonde)  | 飲んだ (nonda)   | 飲まない (nomanai)| U-verbs ending with a syllable from the "u" row        |
+| Ichidan   | 食べる (taberu)    | 食べます (tabemasu)| 食べて (tabete) | 食べた (tabeta)  | 食べない (tabenai)| RU-verbs ending in "る" with "i" or "e" preceding it   |
+| Irregular | する (suru)       | します (shimasu)   | して (shite)    | した (shita)    | しない (shinai)   | Irregular verb meaning "to do"                         |
+| Irregular | 来る (kuru)       | 来ます (kimasu)    | 来て (kite)     | 来た (kita)     | 来ない (konai)    | Irregular verb meaning "to come"                       |
+
