@@ -24,9 +24,9 @@
 - botan - button
 - oshite - to press
 - bentou - bento box
-  - bentou - polite form of the noun
+  - obentou - polite form of the noun
 - atatameru - to warm, to heat up
-  - atatememasu - polite preent/future
+  - atatamemasu - polite present/future
 - sopun - spoon
 - foku - fork
 - ohashi - chopstick
