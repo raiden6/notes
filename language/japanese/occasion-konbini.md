@@ -51,7 +51,7 @@
 4. **どうぞ (dōzo)** - please (used for offering or inviting)
 5. **お持ちですか (omochi desuka?)** - do you have? (polite)
 6. **ないです (naidesu)** - don't have
-7. **あります (arimasu)** - there is, have
+7. **あります (arimasu)** - the polite form of "ある" (aru), which means "to exist" or "to have."
 8. **温めますか (atatamemasuka?)** - shall heat?
 9. **お願いします (onegaishimasu)** - please (requesting)
 10. **お付けしますか (otsukeshimasuka?)** - shall attach/include?
@@ -73,6 +73,4 @@
 8. **を (wo/o)** - Object marker; indicates the direct object of a verb.
 9. **から (kara)** - Indicates a starting point in time or space, or a reason.
 10. **はいりますか (irimasuka?)** - Note: "は" here is part of the verb "いります" (irimasu), not used as a particle.
-11. **あります (arimasu)** - This is the polite form of the verb "ある" (aru), which means "to exist" or "to have." Here it is used to indicate the existence or availability of something, in this case, stamps.
-12. **か (ka)** - This is a particle that turns the statement into a question.
 
