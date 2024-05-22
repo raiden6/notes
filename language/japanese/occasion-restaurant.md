@@ -10,8 +10,8 @@
 - **(Ie, naidesu)** - No, I don't
 - **何名様ですか (Nan-mei-sama desu ka)** - How many people?
 - **二人です (Futari desu)** - 2 people
-- **三人です (Sannin desu)** - 2 people
-- **四人です (Yonin desu)** - 2 people
+- **三人です (Sannin desu)** - 3 people
+- **四人です (Yonin desu)** - 4 people
 - **こちらへどうぞ (Kochira e dōzo)** - This way please
 - **この料理にクルミは入っていますか？アレルギーがあります (Kono ryōri ni kurumi wa haitte imasu ka? Arerugī ga arimasu)** - Does this dish contain walnuts? I have an allergy.
 - **すみません、お水 / ナプキンをもらえますか (Sumimasen, o-mizu / napukin o moraemasu ka)** - Excuse me, could I get some water / a napkin?
