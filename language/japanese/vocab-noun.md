@@ -18,18 +18,3 @@
 - **祖母** (そぼ, sobo) - grandmother
 - **孫** (まご, mago) - grandchild
 
-## Konbini (Convenient Store)
-- fukuru - bag
-- pointo kado - Point card
-- botan - button
-- oshite - to press
-- bentou - bento box
-  - obentou - polite form of the noun
-- atatameru - to warm, to heat up
-  - atatamemasu - polite present/future
-- sopun - spoon
-- foku - fork
-- ohashi - chopstick
-
-
-## School
