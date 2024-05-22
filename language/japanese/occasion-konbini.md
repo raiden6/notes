@@ -37,9 +37,9 @@
 8. **お箸 (ohashi)** - chopsticks
 9. **袋 (fukuro)** - bag
 10. **ボタン (botan)** - button
-11. **シール (shīru)** - sticker
+11. **シール (shīiru)** - sticker
 12. **万円 (man-en)** - ten thousand yen
-13. **レシート (reshīto)** - receipt
+13. **レシート (reshiīto)** - receipt
 
 ## Verbs
 
