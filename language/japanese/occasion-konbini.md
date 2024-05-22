@@ -51,3 +51,17 @@
 12. **いりますか (irimasuka?)** - is it needed?
 13. **このままでいいです (kono mama de ii desu)** - it is fine as is
 14. **よろしいでしょうか (yoroshii deshouka?)** - is it alright?
+
+## Particles Used
+
+1. **は (wa)** - Topic marker; used to denote the topic of the sentence.
+2. **ください (kudasai)** - When attached to the te-form of a verb, it makes a polite request.
+3. **の (no)** - Possessive or linking particle, often used to indicate possession or attribution.
+4. **どうぞ (dōzo)** - Not a particle, but a set phrase used to invite or offer politely.
+5. **か (ka)** - Question marker; used at the end of a sentence to indicate a question.
+6. **に (ni)** - Indicates direction, purpose, or a point in time; also used in various other grammatical roles.
+7. **で (de)** - Indicates the means or location where an action takes place.
+8. **を (wo/o)** - Object marker; indicates the direct object of a verb.
+9. **から (kara)** - Indicates a starting point in time or space, or a reason.
+10. **はいりますか (irimasuka?)** - Note: "は" here is part of the verb "いります" (irimasu), not used as a particle.
+
