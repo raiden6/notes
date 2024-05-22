@@ -8,6 +8,7 @@
   - **お次でお待ちの方どうぞ (Otsugi de omachi no kata dōzo)** - SAME
   - **お次のお客様どうぞ (Otsugi no okyakusama dōzo)** - SAME
   - **お次でお待ちのお客様どうぞ (Otsugi de omachi no okyakusama dōzo)** - SAME
+- **切手はありますか (Kitte wa arimasu ka?)** - Do you have stamps? 
 - **ポイントカードはお持ちですか? (Pointo kādo wa omochi desuka?)** - Do you have a point card?
 - **いえ、ないです (Ie, naidesu)** - No, I don't
 - **はい、あります (Hai, arimasu)** - Yes, I do
@@ -40,6 +41,7 @@
 11. **シール (shīiru)** - sticker
 12. **万円 (man-en)** - ten thousand yen
 13. **レシート (reshiīto)** - receipt
+14. **切手 (kitte)** - stamps
 
 ## Verbs
 
@@ -71,4 +73,6 @@
 8. **を (wo/o)** - Object marker; indicates the direct object of a verb.
 9. **から (kara)** - Indicates a starting point in time or space, or a reason.
 10. **はいりますか (irimasuka?)** - Note: "は" here is part of the verb "いります" (irimasu), not used as a particle.
+11. **あります (arimasu)** - This is the polite form of the verb "ある" (aru), which means "to exist" or "to have." Here it is used to indicate the existence or availability of something, in this case, stamps.
+12. **か (ka)** - This is a particle that turns the statement into a question.
 
