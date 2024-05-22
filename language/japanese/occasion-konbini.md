@@ -15,10 +15,13 @@
 - **はい、お願いします (Hai, onegaishimasu)** - Yes, please
 - **いえ、大丈夫です (Ie, daijōbu desu)** - No, it's okay
 - **お箸をお付けしますか? (Ohashi wo otsukeshimasuka?)** - Do you want chopsticks?
+- **スプーン／フォーク／箸はお使いになりますか? (Supu-n/fo-ku/ohashi ha otsukai ni narimasu ka?) - Would you like a spoon/fork/chopsticks?
 - **袋にお入れしますか？ (Fukuro ni oire shimasuka?)** - Do you want your items in a plastic bag?
   - **袋はいりますか? (Fukuro wa irimasuka?)** - Do you need a plastic bag?
+  - **袋はお分けしますか?  (Fukuro wo owake shimasu ka? )** - Would you like these items bagged separately?
 - **このままでいいです (Kono mama de ii desu)** - It's fine as is
-- **シールでよろしいでしょうか?  (Shīru de yoroshii deshouka?)** - Is it okayt to put a sticker on?
+- **ボタンを押してください (Botan wo oshite kudasai)** - Please press the button 
+- **シールでよろしいでしょうか?  (Shīru de yoroshii deshouka?)** - Is it okay to put a sticker on?
 - **万円からでよろしいですか？ (Ichiman-en kara de yoroshii desuka?)** - You’re paying with a 10,000 yen bill, is this correct?
 - **レシートは宜しいですか？ (Reshīto wa yoroshii desuka?)** - Do you want your receipt?
 
@@ -29,11 +32,14 @@
 3. **お客様 (okyakusama)** - customer
 4. **ポイントカード (pointo kādo)** - point card
 5. **お弁当 (obentō)** - bento, lunch box
-6. **お箸 (ohashi)** - chopsticks
-7. **袋 (fukuro)** - bag
-8. **シール (shīru)** - sticker
-9. **万円 (man-en)** - ten thousand yen
-10. **レシート (reshīto)** - receipt
+6. **スプーン (supūn)** - spoon
+7. **フォーク (fooku)** - fork
+8. **お箸 (ohashi)** - chopsticks
+9. **袋 (fukuro)** - bag
+10. **ボタン (botan)** - button
+11. **シール (shīru)** - sticker
+12. **万円 (man-en)** - ten thousand yen
+13. **レシート (reshīto)** - receipt
 
 ## Verbs
 
@@ -51,6 +57,7 @@
 12. **いりますか (irimasuka?)** - is it needed?
 13. **このままでいいです (kono mama de ii desu)** - it is fine as is
 14. **よろしいでしょうか (yoroshii deshouka?)** - is it alright?
+15. **押して (oshite)** - to press
 
 ## Particles
 
