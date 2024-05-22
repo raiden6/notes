@@ -21,3 +21,33 @@
 - **シールでよろしいでしょうか?  (Shīru de yoroshii deshouka?)** - Is it okayt to put a sticker on?
 - **万円からでよろしいですか？ (Ichiman-en kara de yoroshii desuka?)** - You’re paying with a 10,000 yen bill, is this correct?
 - **レシートは宜しいですか？ (Reshīto wa yoroshii desuka?)** - Do you want your receipt?
+
+## Nouns from Japanese Phrases
+
+1. **お待ち (omachi)** - waiting
+2. **方 (kata)** - person, way, direction
+3. **お客様 (okyakusama)** - customer
+4. **ポイントカード (pointo kādo)** - point card
+5. **お弁当 (obentō)** - bento, lunch box
+6. **お箸 (ohashi)** - chopsticks
+7. **袋 (fukuro)** - bag
+8. **シール (shīru)** - sticker
+9. **万円 (man-en)** - ten thousand yen
+10. **レシート (reshīto)** - receipt
+
+## Verbs from Japanese Phrases
+
+1. **いらっしゃいませ (irasshaimase)** - [polite expression for "come" or "go"]
+2. **お待ちください (omachi kudasai)** - please wait
+3. **いたしました (itashimashita)** - did (polite past)
+4. **どうぞ (dōzo)** - please (used for offering or inviting)
+5. **お持ちですか (omochi desuka?)** - do you have? (polite)
+6. **ないです (naidesu)** - don't have
+7. **あります (arimasu)** - there is, have
+8. **温めますか (atatamemasuka?)** - shall heat?
+9. **お願いします (onegaishimasu)** - please (requesting)
+10. **お付けしますか (otsukeshimasuka?)** - shall attach/include?
+11. **お入れしますか (oire shimasuka?)** - shall put in?
+12. **いりますか (irimasuka?)** - is it needed?
+13. **このままでいいです (kono mama de ii desu)** - it is fine as is
+14. **よろしいでしょうか (yoroshii deshouka?)** - is it alright?
