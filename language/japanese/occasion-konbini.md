@@ -22,7 +22,7 @@
 - **万円からでよろしいですか？ (Ichiman-en kara de yoroshii desuka?)** - You’re paying with a 10,000 yen bill, is this correct?
 - **レシートは宜しいですか？ (Reshīto wa yoroshii desuka?)** - Do you want your receipt?
 
-## Nouns from Japanese Phrases
+## Nouns
 
 1. **お待ち (omachi)** - waiting
 2. **方 (kata)** - person, way, direction
@@ -35,7 +35,7 @@
 9. **万円 (man-en)** - ten thousand yen
 10. **レシート (reshīto)** - receipt
 
-## Verbs from Japanese Phrases
+## Verbs
 
 1. **いらっしゃいませ (irasshaimase)** - [polite expression for "come" or "go"]
 2. **お待ちください (omachi kudasai)** - please wait
@@ -52,7 +52,7 @@
 13. **このままでいいです (kono mama de ii desu)** - it is fine as is
 14. **よろしいでしょうか (yoroshii deshouka?)** - is it alright?
 
-## Particles Used
+## Particles
 
 1. **は (wa)** - Topic marker; used to denote the topic of the sentence.
 2. **ください (kudasai)** - When attached to the te-form of a verb, it makes a polite request.
