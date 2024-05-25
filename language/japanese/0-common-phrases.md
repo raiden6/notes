@@ -13,7 +13,8 @@
   - Also when you bump into someone and want to say sorry
 - I'm sorry (to apologize) - Gomennasai
 - No problem - Daijoubu des
-- Please - Onegaishimasu (お願いします), kudasai (ください)
+- Please - Onegaishimasu (お願いします)
+  - When requesting tangible objects - kudasai (ください)
 - Thank you for the meal (before eating) - Itadakimasu (いただきます)
 - Thank you for the meal (after eating) - Gochisousama deshita (ごちそうさまでした)
 - Yes, please - Hai, onegaishimasu (はい)
