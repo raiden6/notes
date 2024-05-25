@@ -43,7 +43,7 @@ These patterns repeat with each hundred and thousand, adding the prefix number b
 ## Detailed Breakdown
 - 1,000 - sen, issen
 - 2,000 - Ni sen (にせん)
-- 3,000 - San zen (さんぜん)
+- **3,000 - San zen** (さんぜん)
 - 4,000 - yon sen
 - 5,000 - go sen
 - 6,000 - roku sen
