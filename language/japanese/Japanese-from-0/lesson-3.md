@@ -2,22 +2,20 @@
 # Lesson 3
 
 ## New words
-- dare - who?
-- watashi - I; me (male or female)
-- boku - I; me (male)
-- anata - you
-- kanojo - her; she; girlfriend
-- kare - him; he; boyfriend
-- namae - name
-- tomodachi - friend
-- tabun - maybe
-- gakkou - school
-- tori - bird
-- sensei - teacher
-- nihongo no sensei - Japanese teacher
+- **誰 (dare)** - who?
+- **私 (watashi)** - I; me (male or female)
+- **僕 (boku)** - I; me (male)
+- **あなた (anata)** - you
+- **彼女 (kanojo)** - her; she; girlfriend
+- **彼 (kare)** - him; he; boyfriend
+- **名前 (namae)** - name
+- **友達 (tomodachi)** - friend
+- **多分 (tabun)** - maybe
+- **学校 (gakkou)** - school
+- **鳥 (tori)** - bird
+- **先生 (sensei)** - teacher
+- **日本語の先生 (nihongo no sensei)** - Japanese teacher
 
 ## New Phrases
-- soudesu - That's right; it is; yes
-- chigaimasu - That's wrong: its different; it isn't; no
-
-- 
+- **そうです (soudesu)** - That's right; it is; yes
+- **違います (chigaimasu)** - That's wrong; it's different; it isn't; no
