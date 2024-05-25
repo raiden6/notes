@@ -11,13 +11,14 @@ U-verbs end in a consonant + う (u) sound (e.g., 書く (kaku) - to write).
 5. **Past Form**: Change う (u) to い (i) + た (ta)
 6. **Masu Past Form**: Change う (u) to い (i) + ました (mashita)
 
-### Example: 書く (kaku) - to write
-1. **Dictionary Form (Plain Form)**: 書く (kaku)
-2. **Negative Form**: 書かない (kakanai)
-3. **Masu Form (Polite Present)**: 書きます (kakimasu)
-4. **Te Form (Connecting Form)**: 書いて (kaite)
-5. **Past Form**: 書いた (kaita)
-6. **Masu Past Form**: 書きました (kakimashita)
+### Examples:
+| Verb   | Dictionary Form | Negative Form | Masu Form    | Te Form    | Past Form  | Masu Past Form |
+|--------|-----------------|---------------|--------------|------------|------------|----------------|
+| 書く   | 書く (kaku)     | 書かない      | 書きます     | 書いて     | 書いた     | 書きました     |
+| 話す   | 話す (hanasu)   | 話さない      | 話します     | 話して     | 話した     | 話しました     |
+| 読む   | 読む (yomu)     | 読まない      | 読みます     | 読んで     | 読んだ     | 読みました     |
+| 聞く   | 聞く (kiku)     | 聞かない      | 聞きます     | 聞いて     | 聞いた     | 聞きました     |
+| 泳ぐ   | 泳ぐ (oyogu)    | 泳がない      | 泳ぎます     | 泳いで     | 泳いだ     | 泳ぎました     |
 
 ## Group 2: Ru-Verbs (Ichidan Verbs)
 Ru-verbs end in る (ru) with a preceding vowel (e.g., 食べる (taberu) - to eat).
@@ -30,32 +31,23 @@ Ru-verbs end in る (ru) with a preceding vowel (e.g., 食べる (taberu) - to e
 5. **Past Form**: Root + た (ta)
 6. **Masu Past Form**: Root + ました (mashita)
 
-### Example: 食べる (taberu) - to eat
-1. **Dictionary Form (Plain Form)**: 食べる (taberu)
-2. **Negative Form**: 食べない (tabenai)
-3. **Masu Form (Polite Present)**: 食べます (tabemasu)
-4. **Te Form (Connecting Form)**: 食べて (tabete)
-5. **Past Form**: 食べた (tabeta)
-6. **Masu Past Form**: 食べました (tabemashita)
+### Examples:
+| Verb   | Dictionary Form | Negative Form | Masu Form    | Te Form    | Past Form  | Masu Past Form |
+|--------|-----------------|---------------|--------------|------------|------------|----------------|
+| 食べる  | 食べる (taberu) | 食べない      | 食べます     | 食べて     | 食べた     | 食べました     |
+| 見る   | 見る (miru)     | 見ない        | 見ます       | 見て       | 見た       | 見ました       |
+| 起きる  | 起きる (okiru)  | 起きない      | 起きます     | 起きて     | 起きた     | 起きました     |
+| 寝る   | 寝る (neru)     | 寝ない        | 寝ます       | 寝て       | 寝た       | 寝ました       |
+| 出る   | 出る (deru)     | 出ない        | 出ます       | 出て       | 出た       | 出ました       |
 
 ## Group 3: Irregular Verbs
 There are only two common irregular verbs: する (suru - to do) and 来る (kuru - to come).
 
-### Example: する (suru) - to do
-1. **Dictionary Form (Plain Form)**: する (suru)
-2. **Negative Form**: しない (shinai)
-3. **Masu Form (Polite Present)**: します (shimasu)
-4. **Te Form (Connecting Form)**: して (shite)
-5. **Past Form**: した (shita)
-6. **Masu Past Form**: しました (shimashita)
-
-### Example: 来る (kuru) - to come
-1. **Dictionary Form (Plain Form)**: 来る (kuru)
-2. **Negative Form**: 来ない (konai)
-3. **Masu Form (Polite Present)**: 来ます (kimasu)
-4. **Te Form (Connecting Form)**: 来て (kite)
-5. **Past Form**: 来た (kita)
-6. **Masu Past Form**: 来ました (kimashita)
+### Examples:
+| Verb   | Dictionary Form | Negative Form | Masu Form    | Te Form    | Past Form  | Masu Past Form |
+|--------|-----------------|---------------|--------------|------------|------------|----------------|
+| する   | する (suru)     | しない        | します       | して       | した       | しました       |
+| 来る   | 来る (kuru)     | 来ない        | 来ます       | 来て       | 来た       | 来ました       |
 
 ## Key Points to Remember
 1. **Stem Changes**: For U-verbs, the ending vowel changes in the stem when conjugated. For Ru-verbs, you simply drop る (ru) and add the new ending.
