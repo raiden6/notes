@@ -41,7 +41,8 @@
 - Beer - Bīru (ビール) 
 - Japanese sake - Nihonshu (日本酒) 
 - Water please - O-mizu o onegaishimasu (お水をお願いします) 
-- Check, please - Okaikei onegaishimasu (お会計 お願いします) 
+- Check, please - Okaikei onegaishimasu (お会計 お願いします)
+  - Okaikei - act of paying, not litteral check/bill
 - I would like ___, please - __ o Kudasai (__をください) 
 - How much is this? - Ikura desu ka? (いくらですか？) 
 - I'll take it - Sore o moraimasu (それをもらいます) 
