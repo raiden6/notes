@@ -1,7 +1,7 @@
 # Diet - Meal Plan
 
 ## Breakfast - 9am
-- Peanut butter jelly & banana sandwich
+- Peanut butter jelly & banana sandwich, milk
 
 ## Pre-Dinner - 4pm
 - Vegetable smoothie
