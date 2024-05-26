@@ -8,7 +8,11 @@
 - See you later (casual, friends) - Mata Ne (またね) – See you later
 - Nice to meet you - Hajimemashite (はじめまして)
   - Reply with same phrase
-- Thank you - Arigatou gozaimasu (ありがとうございます)
+- Thank you
+  - Arigatou gozaimasu (ありがとうございます)
+    - For something happening now
+  - Arigatou gozaimashita
+    - For something that has happened and completed
 - Excuse me/I'm sorry - Sumimasen (すみません)
   - Also when you bump into someone and want to say sorry
 - I'm sorry (to apologize) - Gomennasai
