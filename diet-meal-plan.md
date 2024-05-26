@@ -1,12 +1,12 @@
 # Diet - Meal Plan
 
-## Breakfast - 9:30am
+## Breakfast - 9am
 - Peanut butter jelly & banana sandwich
 
-## Pre-Dinner - 4:00pm
+## Pre-Dinner - 4pm
 - Vegetable smoothie
 
-## Dinner
+## Dinner - 6-7pm
 - Salmon soup w/ rice
 - Baked salmon w/ rice
 - Air fried chicken wing w/ rice
