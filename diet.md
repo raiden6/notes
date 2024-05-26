@@ -6,9 +6,7 @@
 - **Fats**: Main energy source during low-intensity, prolonged activities and in fasting states.
 - **Proteins**: Used primarily for building and repairing tissues; energy source only in dire situations.
 
-## Good sources of carbs for quick energy
-
-### Best Foods for Quick Energy During Workout
+## Best Foods for Quick Energy During Workout
 
 For quick energy during a workout, you want to consume carbohydrates that are easily digestible and quickly absorbed into the bloodstream. Here are some of the best options:
 
