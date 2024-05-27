@@ -1,9 +1,7 @@
 # Family
 
-| Kanji    | Kana      | Romaji       | English      |
-|----------|-----------|--------------|--------------|
-| お母さん  | おかあさん  | okaasan      | mother       |
-| お父さん  | おとうさん  | otousan      | father       |
-| おじいさん| おじいさん | ojiisan      | grandfather  |
-| おばあさん| おばあさん | obaasan      | grandmother  |
-| 赤ちゃん  | あかちゃん  | akachan      | baby         |
+- **お母さん (おかあさん)** - mother (okaasan)
+- **お父さん (おとうさん)** - father (otousan)
+- **おじいさん (おじいさん)** - grandfather (ojiisan)
+- **おばあさん (おばあさん)** - grandmother (obaasan)
+- **赤ちゃん (あかちゃん)** - baby (akachan)
