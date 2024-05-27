@@ -1,7 +1,7 @@
 # Family
 
-- **お母さん (おかあさん)** - mother (okaasan)
-- **お父さん (おとうさん)** - father (otousan)
-- **おじいさん (おじいさん)** - grandfather (ojiisan)
-- **おばあさん (おばあさん)** - grandmother (obaasan)
-- **赤ちゃん (あかちゃん)** - baby (akachan)
+- **お母さん (okaasan)** - mother
+- **お父さん (otousan)** - father
+- **おじいさん (ojiisan)** - grandfather
+- **おばあさん (obaasan)** - grandmother
+- **赤ちゃん (akachan)** - baby
