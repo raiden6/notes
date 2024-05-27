@@ -1,7 +1,7 @@
 # Greetings and Farewells
 
-- **ありがとう (ありがとう)** - thank you; thanks (arigatou)
-- **おはようございます (おはようございます)** - good morning (ohayou gozaimasu)
-- **お休みなさい (おやすみなさい)** - good night (oyasuminasai)
-- **今日は (こんにちは)** - good afternoon (konnichiwa)
-- **さようなら (さようなら)** - good bye; farewell (sayounara)
+- **ありがとう (arigatou)** - thank you; thanks
+- **おはようございます (ohayou gozaimasu)** - good morning
+- **お休みなさい (oyasuminasai)** - good night
+- **今日は (konnichiwa)** - good afternoon
+- **さようなら (sayounara)** - good bye; farewell
