@@ -1,5 +1,7 @@
 # Cooking Oil
 
+NOTE: Extra virgin olive oil is unrefined olive oil. It has a lower smoking point, but is healthier than olive oil since it hasn't been refined.
+
 | Oil                           | Smoke Point (°F) | Health Rating | Price (per oz, USD) | Details                                              |
 |-------------------------------|------------------|---------------|---------------------|------------------------------------------------------|
 | Avocado Oil                   | 520              | Excellent     | 0.60                | Unrefined, high in monounsaturated fats.             |
