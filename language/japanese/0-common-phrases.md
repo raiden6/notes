@@ -1,0 +1,56 @@
+# Common Phrases
+- **Hello/Good afternoon** - Konnichiwa (こんにちは)
+- **Good morning** - Ohayou gozaimasu (おはようございます)
+- **Good evening** - Konbanwa (こんばんは)
+- **Goodbye (formal, neutral, strangers)** - Sayounara (さようなら)
+- **Bye-Bye (neutral, strangers)** - Bai Bai (バイバイ)
+- **See you (casual, friends)** - Jaa Ne (じゃあね)
+- **See you later (casual, friends)** - Mata Ne (またね)
+- **Nice to meet you** - Hajimemashite (はじめまして)
+  - **Reply with same phrase**
+- **Thank you**
+  - Arigatou gozaimasu (ありがとうございます)
+    - **For something happening now**
+  - Arigatou gozaimashita
+    - **For something that has happened and completed**
+- **Excuse me/I'm sorry** - Sumimasen (すみません)
+  - **Also when you bump into someone and want to say sorry**
+- **I'm sorry (to apologize)** - Gomennasai
+- **No problem** - Daijoubu des
+- **Please** - Onegaishimasu (お願いします)
+  - **When requesting tangible objects** - kudasai (ください)
+- **Thank you for the meal (before eating)** - Itadakimasu (いただきます)
+- **Thank you for the meal (after eating)** - Gochisousama deshita (ごちそうさまでした)
+- **Yes, please** - Hai, onegaishimasu (はい)
+- **No, it's okay** - "ie, daijoubu desu"
+- **Yes, that's right** - Hai, soudesu
+- **Yes, I do** - Hai, arimasu
+- **No, I don't** - Ie, naidesu (いえ)
+- **What is your name?** - Onamae wa nan desu ka? (お名前は何ですか)
+- **Nice to meet you (formal)** - Douzo yoroshiku onegaishimasu (どうぞよろしくお願いします)
+- **How are you?** - Genki desu ka? (元気ですか)
+- **I'm okay/I'm fine** - Daijoubu desu (大丈夫です)
+- **Help me, please** - Tasukete kudasai (助けてください)
+- **Where is it?** - Doko desu ka? (どこですか)
+- **How much is it?** - Ikura desu ka? (いくらですか)
+- **Where is the bathroom?** - Toire wa doko desu ka? (トイレはどこですか)
+- **Amazing!** - Sugoi!
+
+<br/>
+
+- **Beautiful** - Utsukushii (美しい)
+- **Thank you for the food before the first bite** - Itadakimasu (いただきます)
+- **Delicious** - Oishii (美味しい)
+- **Wine** - Wain (ワイン) 
+- **Beer** - Bīru (ビール) 
+- **Japanese sake** - Nihonshu (日本酒) 
+- **Water please** - O-mizu o onegaishimasu (お水をお願いします) 
+- **Check, please** - Okaikei onegaishimasu (お会計 お願いします)
+  - **Okaikei** - act of paying, not literal check/bill
+- **I would like ___, please** - __ o Kudasai (__をください) 
+- **How much is this?** - Ikura desu ka? (いくらですか？) 
+- **I'll take it** - Sore o moraimasu (それをもらいます) 
+- **Help!** - Tasukete! (助けて！) 
+- **Hospital** - Byōin (病院) 
+- **It hurts!** - Itai desu (痛いです) 
+- **I love Japan!** - Nihon daisuki (にほんだいすき)

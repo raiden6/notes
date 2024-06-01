@@ -1,0 +1,34 @@
+# Animals
+
+1. **猫 (neko)** - Cat
+2. **犬 (inu)** - Dog
+3. **魚 (sakana)** - Fish
+4. **鳥 (tori)** - Bird
+5. **鹿 (shika)** - Deer
+6. **熊 (kuma)** - Bear
+7. **馬 (uma)** - Horse
+8. **蛇 (hebi)** - Snake
+9. **亀 (kame)** - Turtle
+10. **蛙 (kaeru)** - Frog
+11. **牛 (ushi)** - Cow
+12. **豚 (buta)** - Pig
+13. **羊 (hitsuji)** - Sheep
+14. **兎 (usagi)** - Rabbit
+15. **狼 (ookami)** - Wolf
+16. **象 (zou)** - Elephant
+17. **猿 (saru)** - Monkey
+18. **鼠 (nezumi)** - Mouse
+19. **蝙蝠 (koumori)** - Bat
+20. **カンガルー (kangarū)** - Kangaroo
+21. **キリン (kirin)** - Giraffe
+22. **サイ (sai)** - Rhino
+23. **ワニ (wani)** - Crocodile
+24. **ライオン (raion)** - Lion
+25. **トラ (tora)** - Tiger
+26. **ペンギン (pengin)** - Penguin
+27. **クジラ (kujira)** - Whale
+28. **イルカ (iruka)** - Dolphin
+29. **タコ (tako)** - Octopus
+30. **クマノミ (kumanomi)** - Clownfish
+31. **ハリネズミ (harinezumi)** - Hedgehog
+32. **ラクダ (rakuda)** - Camel

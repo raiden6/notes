@@ -1,0 +1,57 @@
+# Databases
+
+NoSQL
+- MongoDB
+  - A document-oriented NoSQL database known for its flexibility and scalability.
+  - Stores data in flexible JSON-like documents and supports features such as secondary indexes, sharding, and replication.
+  - Widely used for a variety of applications, including content management systems, real-time analytics, and mobile app backends.
+- Cassandra
+  - A distributed NoSQL database designed for scalability and high availability.
+  - Offers linear scalability by distributing data across multiple nodes in a cluster and supports features such as tunable consistency, decentralized architecture, and automatic data partitioning.
+  - Commonly used for time-series data, IoT applications, and large-scale web applications.
+- Redis
+  - An in-memory data store known for its speed and simplicity.
+  - Supports various data structures such as strings, lists, sets, and hashes, along with features like replication, persistence, and pub/sub messaging.
+  - Often used for caching, session management, real-time analytics, and message queuing.
+- Amazon DynamoDB
+  - A fully managed NoSQL database service provided by AWS.
+  - Offers seamless scalability, high availability, and low latency, making it suitable for applications with unpredictable workloads.
+  - Supports key-value and document data models and provides features such as automatic scaling, encryption at rest, and fine-grained access control.
+- Apache Couchbase
+  - A distributed NoSQL database known for its high performance and scalability.
+  - Combines the flexibility of a JSON document store with the speed of in-memory caching and the scalability of a distributed database.
+  - Commonly used for real-time analytics, user profile management, and personalization.
+- Neo4j
+  - A graph database designed for storing and querying graph data structures.
+  - Offers high-performance graph traversal and querying capabilities, making it suitable for applications that require complex relationship analysis, such as social networks, recommendation systems, and fraud detection.
+- ElasticSearch
+  - While primarily known as a search engine, Elasticsearch also serves as a distributed NoSQL database for storing and indexing semi-structured data.
+  - Offeres powerful full-text search capabilities, real-time analytics, and horizontal scalability.
+  - Commonly used for log analytics, monitoring, and text-based search applications.
+
+SQL
+- MySQL
+  - One of the most widely used open-source relational databases.
+  - Offers excellent performance, scalability, and reliability, making it suitable for a wide range of applications.
+  - Known for its ease of use, robust feature set, and strong community support.
+- PostgreSQL
+  - Another powerful open-source relational database known for its advanced features, extensibility, and SQL compliance.
+  - Provides support for complex queries, transactional integrity, and data integrity constraints.
+  - Highly customizable and offers features such as JSON support, full-text search, and geographic data types.
+- Microsoft SQL Server
+  - A relational database management system developed by Microsoft.
+  - Offers comprehensive features for data management, business intelligence, and analytics.
+  - Provides high availability, security, and scalability options, making it suitable for enterprise-level applications.
+- Oracle Database
+  - A robust and feature-rich relational database management system widely used in enterprise environments.
+  - Offers advanced features such as high availability, data compression, partitioning, and advanced analytics.
+  - Known for its performance, scalability, and security features.
+- SQLite
+  - A lightweight, embedded relational database engine that is self-contained, serverless, and transactional.
+  - Widely used in embedded systems, mobile applications, and small-scale deployments due to its simplicity, portability, and zero-configuration setup.
+- MariaDB
+  - A community-developed fork of MySQL, designed to be fully compatible with MySQL while offering additional features, performance improvements, and enhancements.
+  - Provides high availability, scalability, and security features, making it suitable for enterprise and cloud deployments.
+- IBM Db2
+  - A family of data management products offered by IBM, including relational database management systems for enterprise environments, cloud databases, and data warehousing solutions.
+  - Offers features such as advanced analytics, AI integration, and multi-cloud support.
