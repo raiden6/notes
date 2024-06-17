@@ -9,11 +9,11 @@
 3. **Moha (Si)**: Delusion or ignorance.
 
 ## The Five Aggregates (Ngũ Uẩn)
-1. **Form (Sắc)**: Physical body or matter.
-2. **Sensation (Thọ)**: Feelings or sensations.
-3. **Perception (Tưởng)**: Recognition or cognition.
-4. **Mental formations (Hành)**: Volitional activities or impulses.
-5. **Consciousness (Thức)**: Awareness or sensory experience.
+1. **Form (Sắc)**: Physical body or matter. This refers to physical form, including the body and the material world, the physical aspect of existence.
+2. **Sensation (Thọ)**: Feelings or sensations. This aggregate includes all sensations or feelings, which can be pleasant, unpleasant, or neutral.
+3. **Perception (Tưởng)**: Recognition or cognition. This is the process of recognizing and labeling sensory objects and experiences, leading to the identification and interpretation of what is perceived.
+4. **Mental formations (Hành)**: Volitional activities or impulses. This aggregate encompasses all mental activities and volitional actions, including thoughts, emotions, and intentions. It includes all types of mental habits, responses, and tendencies.
+5. **Consciousness (Thức)**: Awareness or sensory experience. This refers to the awareness or consciousness that arises from sensory and mental contact. It is the aspect of mind that experiences or cognizes the other aggregates.
 
 ## The Four Immeasurables (Tứ Vô Lượng Tâm)
 1. **Loving-kindness (Từ)**: Unconditional love and kindness.
