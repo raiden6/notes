@@ -16,6 +16,14 @@
 7. **Chánh niệm (Right Mindfulness)**: Developing awareness of the body, feelings, mind, and phenomena.
 8. **Chánh định (Right Concentration)**: Developing deep concentration and mental focus.
 
+### The 3 Essentials (from 8-Fold Paths)
+1. Ethical Conduct
+    1. Right Speech, Right Action, Right Livelihood
+3. Mental Discipline
+    1. Right Effort, Right Mindfulness, Right Concentration
+5. Wisdom
+    1. Right Thought, Right Understanding
+
 ## The Five Precepts (Ngũ Giới)
 1. **Không sát sanh (No killing)**: Avoiding the taking of life.
 2. **Không trộm cắp (No stealing)**: Avoiding taking what is not given.
