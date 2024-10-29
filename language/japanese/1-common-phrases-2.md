@@ -16,7 +16,6 @@
 - **Can I get two of this?** - Kore o futatsu kudasai?
 - **Can I get a napkin?** - Napukin o kudasai?
 - **Can I get the check?** - Okaikei onegaishimasu?
-- **I would like to pay** - O-shiharai shitai desu
 - **"How is the taste?" or "How do you like the food?** - Oaji wa ikaga desu ka?
 - **Delicious!** - Oishii
 - 
