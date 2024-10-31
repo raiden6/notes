@@ -4,6 +4,7 @@ REF: https://japanswitch.com/ultimate-guide-to-ordering-food-in-japanese/
 
 - [Waiter] **Welcome (said by restaurant staff when you enter)** - Irasshai mase (いらっしゃいませ)
 - [Waiter] **How many people?** - Nan mei sama desu ka? (何名様ですか？)
+- **3 people** - Sannin desu (三人です)
 - **2 people** - Futari desu (二人です)
 - **1 person** - Hitori desu (一人です)
 - [Waiter] **Please sit here** - Kochira e douzo (こちらへどうぞ)
